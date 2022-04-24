@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "583084879971",
+    "project_id": "demolush-7338a",
+    "storage_bucket": "demolush-7338a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583084879971:android:d0115b26f70696b0980856",
+        "android_client_info": {
+          "package_name": "com.example.applog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583084879971-um719a3u28v6hlfn9v1pn6asmrm8kucv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCfK004yNxVSRTx9nAMeGNWXSQQwnPyQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "583084879971-um719a3u28v6hlfn9v1pn6asmrm8kucv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
